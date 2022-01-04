@@ -38,13 +38,13 @@ However, All the major banks are also providing SMEs with loans. This includes A
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
-
+Financial Year 20211 was really successful for Judo. It shows their lending books growing from 97% to $3.5 billion. Judo Bank also performed really well at it's IPO. It debuted at $2.10 and closed day 1 at $2.26 on Day 1. It was already within the top 200 in Australia. If it's able to maintain its position for 2 more quarters Judo can be eligible for S&P/ASX 200.
+ 
+However, looking at their Loan to Deposit Ratio. It hasn't performanced as greatly. Loan to Deposit Ratio is used to assess the bank's liquidity by comparing it's total loan to total deposits over the same time. Average LDR is around the 80% to 90% market. Judo is currently sitting at 138% in the FY2021.
+ 
+On the other hand, Judo is doing as good as the major banks in Net Interest Margin. Net Interest Margin measures the difference between interest paid and interest received. It indicates the bank's growth and profitability. Looking at the RBA records average Net Interest Margin of Major Banks is around the 2.2% mark. Judo Bank is standing at around the 2.4% mark.
+ 
+Judo Bank has also maintained a solid capital position which is reflected through their Total Capital Ratio and total tier 1 Capital Ratio. Total Capital Ratio measures the total capital to risk-weighted asset and Tier 1 Capital Ratio consists of the funding sources to which a bank can most freely allocate losses without triggering bankruptcy. Judo banks hold a strong position in both of these ratios. It's Capital Ratio is at 26.4% and Total Tier 1 Capital Ratio is at 24.5% compared to the national averages of around 12% and 10% respectively according to the Reserve bank of Australia.
 
 
 ## Recommendations
@@ -61,3 +61,25 @@ Similarly, AWS Lambda provides the flexiblityy to run any third party languages,
 
 Finally, Amazon Kinesis is a cloud-based managed, scalable service that allows for real-time processing of enormous amounts of data per second. It will help Judo to built for real-time applications, and it will pull in any amount of data from multiple sources while scaling up and down on EC2 instances. It will also captures, stores, and processes data from big, dispersed streams like event logs and social media feeds. Kinesis delivers the data to various consumers at the same time after it has been processed.
 
+## References
+
+1. https://cdn.unifii.net/judobank/40c6f7dd-01cf-4ba4-b66a-50b78c1bc18b.pdf
+2. https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-overview-benefits.html
+3.  https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-overview.html
+4. https://www.tutorialspoint.com/amazon_web_services/amazon_web_services_kinesis.htm#:~:text=Amazon%20Kinesis%20is%20a%20managed,be%20run%20on%20EC2%20instances.
+5. https://creditorwatch.com.au/about-us/
+6. https://www.fisglobal.com/en-au/insights/what-we-know/2021/october/10-metrics-and-kpis-every-financial-institution-should-track
+7. https://www.rba.gov.au/publications/bulletin/2010/sep/6.html
+8. https://www.rba.gov.au/chart-pack/banking-indicators.html
+9. https://aws.amazon.com/lambda/features/
+10. https://www.afr.com/companies/financial-services/judo-kicks-in-first-bank-float-in-25-years-20211101-p594zc
+11. https://itoc.com.au/work/judo-bank-platform
+12. https://www.judo.bank/media-releases
+13. https://cdn.unifii.net/judobank/806897b8-140b-4302-ac09-da15e179dfeb.pdf
+14. https://www.judo.bank/
+15. https://www.smartcompany.com.au/startupsmart/news/judo-bank-174-million-third-biggest-sme-lender/
+16. https://www.smartcompany.com.au/startupsmart/news/judo-bank-230-million-unicorn/
+17. https://www.forbes.com/sites/forbesfinancecouncil/2020/02/18/the-future-of-lending-five-trends-to-watch/?sh=27773ecc2495
+18. https://www.businessinsider.com/banking-industry-trends?r=AU&IR=T
+19. https://www.leadsquared.com/lending-business-technology-trends/
+20. https://www.avenuebank.com.au/
